@@ -11,7 +11,43 @@
     "collegeName": "IITKGP",
     "baseUrl": "",
     "introduction": "The Virtual Laboratory is an interactive environment for creating and conducting simulated experiments: a playground for experimentation. It consists of domain-dependent simulation programs, experimental units called objects that encompass data files, tools that operate on the objects.<br/><br/>The Objective is to Expose the students to the various key aspects of Digital Logic and Computer Organization by enabling them to perform FPGA based prototyping of experiments with support of a virtual environment. The primary need for virtualisation here is multifold.<br/><br/>1. Digital Logic and Computer Organization are core courses in most of the Undergraduate Curricula of the entire Electrical Sciences Discipline(Computer Science / Engg., Electronics, Electrical) etc.<br/>2. Many colleges/institutes cannot procure sufficient number of FPGA boards for their students. 2. Even when such FPGA boards are available, making them available round the clock is difficult.<br/> 3. Expert help is required to effectively use these FPGA boards and such help can be easily channeled through a virtual environment.<br/> 4. Helps to standardize the set of Experiments to a large extent.<br/>",
-    "experiments": [],
+    "experiments": [
+    {
+      "name": "Ripple Carry Adder",
+      "short-name": "ripple-carry-adder",
+      "repo": "https://github.com/virtual-labs/exp-ripple-carry-adder-iitkgp",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Carry-Look-Ahead Adder",
+      "short-name": "carry-look-ahead-adder",
+      "repo": "https://github.com/virtual-labs/exp-carry-look-ahead-adder-iitkgp",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Wallace Tree Adder",
+      "short-name": "wallace-tree-adder",
+      "repo": "https://github.com/virtual-labs/exp-wallace-tree-adder-iitkgp",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Karnaugh Map",
+      "short-name": "karnaugh-map",
+      "repo": "https://github.com/virtual-labs/exp-karnaugh-map-iitkgp",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Quine - Mc Clusky Algorithm",
+      "short-name": "quine",
+      "repo": "https://github.com/virtual-labs/exp-quine-iitkgp",
+      "tag": "v1.0.0",
+      "deploy": true
+    }
+    ],
     "targetAudience": {
         "UG": ["Computer Science Engineering, Mechatronics, Electrical Engineering, Electronics branches"],
         "PG": ["Computer Science Engineering, Mechatronics, Electrical Engineering, Electronics branches"]
