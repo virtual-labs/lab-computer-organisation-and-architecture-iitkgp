@@ -1,20 +1,20 @@
 
 {
     "broadArea": {
-        "name": "",
-        "link": ""
+        "name": "Computer Science and Engineering",
+        "link": "https://www.vlab.co.in/broad-area-computer-science-and-engineering"
     },
-    "lab": "",
-    "lab_display_name": "",
-    "deployLab": ,
-    "phase": ,
-    "collegeName": "",
+    "lab": "Computer Organisation and Architecture Lab",
+    "lab_display_name": "Computer Organisation and Architecture Lab",
+    "deployLab": true,
+    "phase": 3,
+    "collegeName": "IITKGP",
     "baseUrl": "",
-    "introduction": "",
+    "introduction": "The Virtual Laboratory is an interactive environment for creating and conducting simulated experiments: a playground for experimentation. It consists of domain-dependent simulation programs, experimental units called objects that encompass data files, tools that operate on the objects.<br/><br/>The Objective is to Expose the students to the various key aspects of Digital Logic and Computer Organization by enabling them to perform FPGA based prototyping of experiments with support of a virtual environment. The primary need for virtualisation here is multifold.<br/><br/>1. Digital Logic and Computer Organization are core courses in most of the Undergraduate Curricula of the entire Electrical Sciences Discipline(Computer Science / Engg., Electronics, Electrical) etc.<br/>2. Many colleges/institutes cannot procure sufficient number of FPGA boards for their students. 2. Even when such FPGA boards are available, making them available round the clock is difficult.<br/> 3. Expert help is required to effectively use these FPGA boards and such help can be easily channeled through a virtual environment.<br/> 4. Helps to standardize the set of Experiments to a large extent.<br/>",
     "experiments": [],
     "targetAudience": {
-        "UG": [],
-        "PG": []
+        "UG": ["Computer Science Engineering, Mechatronics, Electrical Engineering, Electronics branches"],
+        "PG": ["Computer Science Engineering, Mechatronics, Electrical Engineering, Electronics branches"]
     },
     "objective": "",
     "courseAlignment": {
