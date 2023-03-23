@@ -10,7 +10,7 @@
     "phase": 3,
     "collegeName": "IITKGP",
     "baseUrl": "coa-iitkgp.vlabs.ac.in",
-    "introduction": "The Virtual Laboratory is an interactive environment for creating and conducting simulated experiments: a playground for experimentation. It consists of domain-dependent simulation programs, experimental units called objects that encompass data files, tools that operate on the objects.<br/><br/>The Objective is to Expose the students to the various key aspects of Digital Logic and Computer Organization by enabling them to perform FPGA based prototyping of experiments with support of a virtual environment. The primary need for virtualisation here is multifold.<br/><br/>1. Digital Logic and Computer Organization are core courses in most of the Undergraduate Curricula of the entire Electrical Sciences Discipline(Computer Science / Engg., Electronics, Electrical) etc.<br/>2. Many colleges/institutes cannot procure sufficient number of FPGA boards for their students. 2. Even when such FPGA boards are available, making them available round the clock is difficult.<br/> 3. Expert help is required to effectively use these FPGA boards and such help can be easily channeled through a virtual environment.<br/> 4. Helps to standardize the set of Experiments to a large extent.<br/>",
+    "introduction": "Computer organization and architecture (COA) is a core course in the curriculum of CSE, EE and ECE. Laboratory experiments essential to understanding basics. Most places used bread board based setup. This simulator provides an interactive environment for creating and conducting simulated experiments on computer organization and architecture. It supports gate level design to CPU design.",
     "experiments": [
     {
       "name": "Ripple Carry Adder",
@@ -52,9 +52,9 @@
         "UG": ["Computer Science Engineering, Mechatronics, Electrical Engineering, Electronics branches"],
         "PG": ["Computer Science Engineering, Mechatronics, Electrical Engineering, Electronics branches"]
     },
-    "objective": "",
+    "objective": "The Objective is to Expose the students to the various key aspects of Digital Logic and Computer Organization by enabling them to perform FPGA based prototyping of experiments with support of a virtual environment. The primary need for virtualisation here is multifold.<br/><br/>1.Digital Logic and Computer Organization are core courses in most of the Undergraduate Curricula of the entire Electrical Sciences Discipline(Computer Science / Engg., Electronics, Electrical) etc. <br/><br/>2. Many colleges/institutes cannot procure sufficient number of FPGA boards for their students.</br></br>Even when such FPGA boards are available, making them available round the clock is difficult.<br/><br/>4. Expert help is required to effectively use these FPGA boards and such help can be easily channeled through a virtual environment.<br/><br/>5. Helps to standardize the set of Experiments to a large extent.",
     "courseAlignment": {
-        "description": "",
-        "universities": []
+        "description": "The lab contents are chosen such that it covers the syllabi of the Digital Logic and Computer organization course of various universities.",
+        "universities": ["IIT Kharagpur"]
     }
 }
