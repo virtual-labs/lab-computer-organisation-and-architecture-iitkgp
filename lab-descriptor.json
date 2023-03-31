@@ -6,7 +6,7 @@
   "lab": "Computer Organisation and Architecture Lab",
   "lab_display_name": "Computer Organisation and Architecture Lab",
   "deployLab": true,
-  "phase": 3,
+  "phase": 2,
   "collegeName": "IITKGP",
   "baseUrl": "coa-iitkgp.vlabs.ac.in",
   "introduction": "Computer organization and architecture (COA) is a core course in the curriculum of CSE, EE and ECE. Laboratory experiments essential to understanding basics. Most places used bread board based setup. This simulator provides an interactive environment for creating and conducting simulated experiments on computer organization and architecture. It supports gate level design to CPU design.",
@@ -62,5 +62,5 @@
   },
   "exp_name": "Quine - Mc Clusky Algorithm",
   "exp_short_name": "quine",
-  "version": "v0.1.0"
+  "version": "v0.2.0"
 }
