@@ -1,7 +1,8 @@
 {
   "broadArea": {
     "name": "Computer Science and Engineering",
-    "link": "https://www.vlab.co.in/broad-area-computer-science-and-engineering"
+    "link": "https://www.vlab.co.in/broad-area-computer-science-and-engineering",
+    "code": "CSE"
   },
   "lab": "Computer Organisation and Architecture Lab",
   "lab_display_name": "Computer Organisation and Architecture Lab",
@@ -59,8 +60,5 @@
   "courseAlignment": {
     "description": "The lab contents are chosen such that it covers the syllabi of the Digital Logic and Computer organization course of various universities.",
     "universities": ["IIT Kharagpur"]
-  },
-  "exp_name": "Quine - Mc Clusky Algorithm",
-  "exp_short_name": "quine",
-  "version": "v0.2.0"
+  }
 }
