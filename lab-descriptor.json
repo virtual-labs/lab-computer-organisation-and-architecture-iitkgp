@@ -16,21 +16,84 @@
       "name": "Ripple Carry Adder",
       "short-name": "ripple-carry-adder",
       "repo": "https://github.com/virtual-labs/exp-ripple-carry-adder-iitkgp",
-      "tag": "v1.0.0",
+      "tag": "v2.0.0",
       "deploy": true
     },
     {
       "name": "Carry-Look-Ahead Adder",
       "short-name": "carry-look-ahead-adder",
       "repo": "https://github.com/virtual-labs/exp-carry-look-ahead-adder-iitkgp",
-      "tag": "v1.0.0",
+      "tag": "v2.0.0",
       "deploy": true
     },
     {
       "name": "Wallace Tree Adder",
       "short-name": "wallace-tree-adder",
       "repo": "https://github.com/virtual-labs/exp-wallace-tree-adder-iitkgp",
+      "tag": "v2.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Synthesis of Flip flop",
+      "short-name": "synthesis-flip-flops",
+      "repo": "https://github.com/virtual-labs/exp-synthesis-flip-flops-iitkgp",
+      "tag": "v1.0.1",
+      "deploy": true
+    },
+     {
+      "name": "Registers and Counters",
+      "short-name": "registers-counters",
+      "repo": "https://github.com/virtual-labs/exp-registers-counters-iitkgp",
+      "tag": "v1.0.1",
+      "deploy": true
+    },
+    {
+      "name": "Combinational Multipliers",
+      "short-name": "combinational-multipliers",
+      "repo": "https://github.com/virtual-labs/exp-combinational-multipliers-iitkgp",
       "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Booth's Multiplier",
+      "short-name": "booths-multiplier",
+      "repo": "https://github.com/virtual-labs/exp-booths-multiplier-iitkgp",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Arithmetic Logic Unit",
+      "short-name": "dld-arithmetic-logic-unit",
+      "repo": "https://github.com/virtual-labs/exp-dld-arithmetic-logic-unit-iitkgp",
+      "tag": "v1.0.1",
+      "deploy": true
+    },
+    {
+      "name": "Memory Design",
+      "short-name": "memory-design",
+      "repo": "https://github.com/virtual-labs/exp-memory-design-iitkgp",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Associative cache Design",
+      "short-name": "associative-cache-design",
+      "repo": "https://github.com/virtual-labs/exp-associative-cache-design-iitkgp",
+      "tag": "v1.0.1",
+      "deploy": true
+    },
+    {
+      "name": "Direct Mapped cache Design",
+      "short-name": "direct-mapped-cache-design",
+      "repo": "https://github.com/virtual-labs/exp-direct-mapped-cache-design-iitkgp",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "CPU Design",
+      "short-name": "cpu-design",
+      "repo": "https://github.com/virtual-labs/exp-cpu-design-iitkgp",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
