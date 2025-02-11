@@ -16,21 +16,21 @@
       "name": "Ripple Carry Adder",
       "short-name": "ripple-carry-adder",
       "repo": "https://github.com/virtual-labs/exp-ripple-carry-adder-iitkgp",
-      "tag": "v2.0.0",
+      "tag": "v2.0.1",
       "deploy": true
     },
     {
       "name": "Carry-Look-Ahead Adder",
       "short-name": "carry-look-ahead-adder",
       "repo": "https://github.com/virtual-labs/exp-carry-look-ahead-adder-iitkgp",
-      "tag": "v2.0.0",
+      "tag": "v2.0.1",
       "deploy": true
     },
     {
       "name": "Wallace Tree Adder",
       "short-name": "wallace-tree-adder",
       "repo": "https://github.com/virtual-labs/exp-wallace-tree-adder-iitkgp",
-      "tag": "v2.0.0",
+      "tag": "v2.0.1",
       "deploy": true
     },
     {
